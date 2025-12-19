@@ -1,0 +1,14 @@
+TOOLTIP ANNOTATION SYNTAX
+
+A tooltip file is a plain text file with certain words annotated with tooltip 
+data. The format of these annotations is  [:tooltip text|original content].
+
+Labels should not be used across multiple lines, and they may not be reused or 
+nested. To disambiguate, pipes, backslashes, and brackets within an annotation 
+(in both the tooltip and content text) must be preceded with a backslash. The 
+newline literal \n is supported within tooltip text only.
+
+Newlines are respected, where a single newline is a line break and a double 
+newline is a paragraph break.
+
+See examples/example1.txt for a comprehensive example.

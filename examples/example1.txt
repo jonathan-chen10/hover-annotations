@@ -1,0 +1,8 @@
+The [:Forecast: \[sunny and mild\]|weather] is nice today. But it will [:~2 inches\|5 cm|rain] tomorrow.
+
+I think Wednesday is fine again tho...
+or [:\\ruh roh\\\nthat's not good...|not].
+
+Normal text like [brackets] or | pipes should not be impacted. In fact, for anything erroneous [:like this, just leave it in plaintext].
+
+Here's the [:hi!|normal usage] of tooltips. It should highlight "normal usage" and display "hi!" when hovered (and disappear when it's gone).

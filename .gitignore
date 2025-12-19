@@ -1,0 +1,5 @@
+test-files/
+
+out/*
+!out/sample.html
+!out/style.css
