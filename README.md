@@ -15,7 +15,7 @@ Examples can be found in the `examples/` folder. Compiling is done as follows:
 python3 code/compile.py examples/example1.txt sample.html
 ```
 
-In fact, this command has already been run, and you can see [`out/sample.html`](out.sample.html) for yourself.
+In fact, this command has already been run, and you can see [`out/sample.html`](out/sample.html) for yourself.
 
 **Generative AI Statement**: Generative AI was used for early-stage planning and to help generate the tooltip CSS.
 
