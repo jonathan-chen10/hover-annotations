@@ -2,6 +2,8 @@
 
 A simple tooltip markup language that compiles to CSS tooltips.
 
+<img src="examples/screenshot.png" width="500" alt="Screenshot of compiled tooltips">
+
 The language spec can be found in [`lang.txt`](lang.txt).
 
 The compiler is a simple Python 3.14 script that relies on regex and str.replace().
