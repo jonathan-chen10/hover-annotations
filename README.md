@@ -1,6 +1,6 @@
 # Tooltip Annotation Language
 
-A simple tooltip markup language that compiles to HTML classes that use CSS tooltips.
+A simple tooltip markup language that compiles to HTML classes that use CSS `content-attribute` tooltips.
 
 <img src="examples/screenshot.png" width="500" alt="Screenshot of compiled tooltips">
 
